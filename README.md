@@ -1,4 +1,4 @@
-# Hi there, I'm [Siddharth Sharma]! 👋
+# Hi there, I'm Siddharth Sharma! 👋
 
 ### 📊 Data Analyst | Transforming Data into Actionable Insights
 
