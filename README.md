@@ -23,6 +23,6 @@ I am a passionate Data Analyst focused on uncovering trends and visualizing data
 - 📉 performing advanced statistical analysis in **Excel**.
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/siddharthsh64
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharthsh64)
 )
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthsh064@gmail.com)
