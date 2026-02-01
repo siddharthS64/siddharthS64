@@ -18,6 +18,8 @@ I am a passionate Data Analyst focused on uncovering trends and visualizing data
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -26,6 +28,13 @@ I am a passionate Data Analyst focused on uncovering trends and visualizing data
 - 🗄️ Managing complex databases and writing optimized queries in **MySQL**.
 - 📊 Building storytelling dashboards in **Power BI**.
 - 📉 performing advanced statistical analysis in **Excel**.
+
+--- 
+
+### 🚀 Open to Work
+I am currently seeking opportunities to apply my technical skills in a professional environment. I am particularly interested in **Data Analyst**,**Business Intelligence Intern**, or **Data Engineer** roles where I can contribute to data-driven decision-making.
+
+---
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharthsh64)
